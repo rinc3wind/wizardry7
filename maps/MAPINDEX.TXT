@@ -1,0 +1,88 @@
+This map set is designed for use with CDSWALK.ZIP, a walkthru of
+Wizardry 7, CRUSADERS OF THE DARK SAVANT which is produced and 
+distributed by Sir-Tech Software. 
+
+These maps drawn and Copyright(c) 1994 by Tom Needham, 70353,3477. 
+All rights reserved. Please report significant errors by E-Mail.
+
+
+BEGINNER GIF      Beginner dungeon - entrance on B-5
+CRYPT_1  GIF      Crypt Isle - Hall of the Dead - entrance on C-7
+CRYPT_2  GIF                 - Chamber of Gorrors
+CRYPT_3  GIF                 - Hall of the Past Levels 1-4
+CRYPT_4  GIF                 - Hall of the Past Levels 5-8
+CRYPT_5  GIF                 - Tomb of the ASTRAL DOMINAE
+DANE_12  GIF      Dane Tower - Levels 1-2 - entrance on A-4
+DANE_34  GIF                 - Levels 3-4
+DANE_56  GIF                 - Levels 5-8
+DRAG_NE  GIF      Dragon Mountain Cave - NE section 
+DRAG_NW  GIF                           - NW section - entrance on B-8
+DRAG_SE  GIF                           - SE section
+DRAG_SW  GIF                           = SW section
+FUN_1    GIF      Funhouse - Level 1 - entrance on Rattkin-2
+FUN_2    GIF               - Level 2
+FUN_12   GIF               - more Levels 1 and 2
+FUN_34   GIF               - Levels 3-4
+GIANT    GIF      Giant Cave - entrance on F-3
+LANDREAM GIF      Land of Dreams - entrance on Munkharama south
+MUNK_N   GIF      Munkharama - north - entrance on E-4
+MUNK_S   GIF                 - south - entrance of EF-6
+NEWCTY_N GIF      New City - north - entrance on B-5
+NEWCTY_S GIF               - south - entrance on D-5
+NYCT_N   GIF      Nyctalinth - north 
+NYCT_S   GIF                 - south - entrance on B-1
+NYCT_DUN GIF      Nyctalinth dungeon - entrances in Nyctlinth
+OLDCITY  GIF      Old City - entrance in New City
+ORKOG_1  GIF      Orkogre Castle/dungeon - Level 1 - entrance on C-2
+ORKOG_23 GIF                             - Levels 2-3
+RATKIN_1 GIF      Rattkin Ruins - section 1 - entrance on D-1
+RATKIN_2 GIF                    - section 2
+RATKIN_3 GIF                    - section 3 
+SKYCITY  GIF      Sky City - entrance in Dragon Cave
+SPHYNX   GIF      Sphynx (Whirlpool) Cave - entrance on F-4
+TEMPL_1A GIF      Secret Temple - section Level 1 - entrance in Munkharama
+TEMPL_1B GIF                    - section Level 1
+TEMPL_23 GIF                    = Levels 2-3
+UKPYR_N  GIF      Ukpyr - north - entrance on FG-5
+UKPYR_S  GIF            - south - entrance on F-7
+WITCH_N  GIF      Witch Cave - north
+WITCH_S  GIF                 - south - entrance n F-3
+
+MAPALL   GIF      Relative position of all 'forest' maps listed below
+MAPA2    GIF      
+MAPA3    GIF      
+MAPA4    GIF      
+MAPA7    GIF      
+MAPB1    GIF      
+MAPB2    GIF      
+MAPB4    GIF      
+MAPB5    GIF      
+MAPB6    GIF      
+MAPB7    GIF      
+MAPB8    GIF      
+MAPBC0   GIF      
+MAPC1    GIF      
+MAPC2    GIF      
+MAPC3    GIF      
+MAPC6    GIF      
+MAPC7    GIF      
+MAPC8    GIF      
+MAPD1    GIF      
+MAPD3    GIF      
+MAPD4    GIF      
+MAPD5    GIF      
+MAPD6    GIF      
+MAPD7    GIF      
+MAPD8    GIF      
+MAPE3    GIF      
+MAPE4    GIF      
+MAPE7    GIF      
+MAPE8    GIF      
+MAPEF6   GIF      
+MAPF2    GIF      
+MAPF3    GIF      
+MAPF4    GIF      
+MAPF7    GIF      
+MAPF8    GIF      
+MAPFG5   GIF      
+MAPG4    GIF      
